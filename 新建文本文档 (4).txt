@@ -1,0 +1,20 @@
+"的是非得失§§0§0§0§false§§§7§false§false§false§false§false§false¤page§1§§undefined§§§"
+
+
+"需求登记表[复制]§<span style="font-size:16px;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;请填写下表，完成需求登记！</span>§0§0§0§false§§§7§false§false§false§false§false§false¤page§1§§undefined§§§¤question§1§需求人姓名：〒〒§undefined§1§§false§false§§§false§§姓名§undefined§false§-1§200§true§¤question§2§需要的物品〒〒§undefined§1§§false§false§§§false§§§undefined§false§-1§200§true§¤question§3§需要的数量〒〒§undefined§1§§false§false§§§false§§数字§undefined§false§-1§200§true§¤question§4§需求的日期：〒〒§undefined§1§§false§false§§§false§§日期§undefined§false§-1§§false§¤question§5§联系电话〒〒§undefined§1§§false§false§§§false§§手机§undefined§false§-1§200§true§¤question§6§备注信息〒〒§undefined§3§§false§false§§§false§§§undefined§false§-1§§false§¤cut§<div align="center"><span style="font-size:16px;">填写完成，我们将尽快完成并与你联系！</span></div>§§"
+
+
+
+"test§§0§0§0§false§§§7§false§false§false§false§false§false¤page§1§§undefined§§§¤radio§1§发的防晒霜达到省电〒〒〒§0§1〒false§false§false§0§true§§§0§§§收到风〒false〒1〒0〒false〒false〒〒false〒〒§多点〒false〒2〒0〒false〒false〒〒false〒〒"
+
+
+
+
+
+"test§§0§0§0§false§§§7§false§false§false§false§false§false¤page§1§§undefined§§§¤radio§1§发的防晒霜达到省电〒〒〒§0§1〒false§false§false§0§true§§§0§§§收到风〒false〒1〒0〒false〒false〒〒false〒〒§多点〒false〒2〒0〒false〒false〒〒false〒〒¤radio§2§单选题2〒〒〒§0§1〒false§false§false§0§true§§§0§§§选项6〒false〒1〒0〒false〒false〒〒false〒〒§选项7〒false〒2〒0〒false〒false〒〒false〒〒¤check§3§请在此输入问题标题〒〒〒§0§1〒false§false§false§0§true,,§§§0§§§选项4〒false〒1〒0〒false〒false〒〒false〒〒§选项5〒false〒2〒0〒false〒false〒〒false〒〒"
+
+
+2018/3/9 8:48:35§企业员工满意度调查问卷[复制]§&nbsp;您好！<br />
+&nbsp;&nbsp;&nbsp; 欢迎参加“企业员工满意度”的调查工作！此次调查是本公司为了加强企业部门的组织建设而专门设计的，旨在通过对员工满意度的调查对公司的相关建设做出改进。希望你抽出一点时间积极配合我们的调查工作，谢谢你的参与。<br />
+说明：<br />
+（1）本次调查采用匿名形式，我们将严格保密你的信息，你可以放心作答。§0§0§false§§§7§false§false§false§false§false§false¤page§1§一：&nbsp;总体满意度§undefined§§§¤radio§1§从总体而言，你对企业满意程度〒〒〒§2§1〒false§true§false§0§true§§§0§§§不满意〒false〒1〒0〒false〒false〒〒false〒〒§选项3〒false〒2〒0〒false〒false〒〒false〒〒§选项5〒false〒3〒〒false〒false〒〒false〒〒§选项4〒false〒3〒〒false〒false〒〒false〒〒§满意〒false〒5〒〒false〒false〒〒false〒〒¤radio§2§&nbsp;对自己岗位的满意度〒〒〒§2§1〒false§true§false§0§true§§§0§§§很不满意〒false〒1〒0〒false〒false〒〒false〒〒§不满意〒false〒2〒0〒false〒false〒〒false〒〒§一般〒false〒3〒0〒false〒false〒〒false〒〒§满意〒false〒4〒0〒false〒false〒〒false〒〒§很满意〒false〒5〒0〒false〒false〒〒false〒〒¤radio§3§&nbsp;你对公司的归属感〒〒〒§0§1〒false§false§false§0§true§§§0§§§很高〒false〒0〒0〒false〒false〒〒false〒〒§较高〒false〒1〒0〒false〒false〒〒false〒〒§一般〒false〒3〒〒false〒false〒〒false〒〒§很少〒false〒4〒〒false〒false〒〒false〒〒§没有〒false〒5〒〒false〒false〒〒false〒〒¤cut§<strong>&nbsp;二：岗位满意度</strong>§§¤slider§4§在工作中你的成就欲望〒〒§undefined§true§0§100§没有§很高§§false§0¤radio§5§&nbsp;你一天的工作量〒〒〒§0§1〒false§false§false§0§true§§§0§§§超负荷〒false〒0〒0〒false〒false〒〒false〒〒§满意〒false〒1〒0〒false〒false〒〒false〒〒§一般〒false〒3〒〒false〒false〒〒false〒〒§很低〒false〒4〒〒false〒false〒〒false〒〒¤radio§6§&nbsp;你对自己岗位的工作〒〒〒§0§1〒false§false§false§0§true§§§0§§§很有兴趣〒false〒0〒0〒false〒false〒〒false〒〒§兴趣不浓〒false〒1〒0〒false〒false〒〒false〒〒§没有兴趣〒false〒3〒〒false〒false〒〒false〒〒¤radio§7§&nbsp;在工作中你学习新技能的机会〒〒〒§0§1〒false§false§false§0§true§§§0§§§很多〒false〒0〒0〒false〒false〒〒false〒〒§有时〒false〒1〒0〒false〒false〒〒false〒〒§视情况而定〒false〒3〒〒false〒false〒〒false〒〒§几乎没有〒false〒4〒〒false〒false〒〒false〒〒¤radio§8§&nbsp;你觉得自己在工作中的发挥〒〒〒§0§1〒false§false§false§0§true§§§0§§§充分发挥〒false〒0〒0〒false〒false〒〒false〒〒§大部分发挥〒false〒1〒0〒false〒false〒〒false〒〒§部分发挥〒false〒3〒〒false〒false〒〒false〒〒§基本没发挥〒false〒4〒〒false〒false〒〒false〒〒¤radio§9§&nbsp;你对自己奋斗的目标〒〒〒§0§1〒false§false§false§0§true§§§0§§§清楚〒false〒0〒0〒false〒false〒〒false〒〒§较为清楚〒false〒1〒0〒false〒false〒〒false〒〒§不太清楚〒false〒3〒〒false〒false〒〒false〒〒§不清楚〒false〒4〒〒false〒false〒〒false〒〒¤radio§10§&nbsp;你对自己的工作权限〒〒〒§0§1〒false§false§false§0§true§§§0§§§明确〒false〒0〒0〒false〒false〒〒false〒〒§较为明确〒false〒1〒0〒false〒false〒〒false〒〒§不太明确〒false〒3〒〒false〒false〒〒false〒〒§不明确〒false〒4〒〒false〒false〒〒false〒〒¤radio§11§你现在付出的努力和实际收到的报酬相匹配。 〒〒〒§0§1〒false§false§false§0§true§§§0§§§很满意〒false〒0〒0〒false〒false〒〒false〒〒§满意〒false〒1〒0〒false〒false〒〒false〒〒§一般〒false〒3〒〒false〒false〒〒false〒〒§不满意〒false〒4〒〒false〒false〒〒false〒〒¤cut§<strong>三：&nbsp;对上司的满意度</strong>§§¤slider§12§&nbsp;总体上你觉得你部门的组长能力〒〒§undefined§true§0§100§很低§很高§§false§0¤radio§13§组长能够用人所长，扬长避短〒〒〒§0§1〒false§false§false§0§true§§§0§§§总是〒false〒0〒0〒false〒false〒〒false〒〒§有时〒false〒1〒0〒false〒false〒〒false〒〒§很少〒false〒3〒〒false〒false〒〒false〒〒§没有〒false〒4〒〒false〒false〒〒false〒〒¤radio§14§&nbsp;组长听取员工意见次数〒〒〒§0§1〒false§false§false§0§true§§§0§§§经常〒false〒0〒0〒false〒false〒〒false〒〒§偶尔〒false〒1〒0〒false〒false〒〒false〒〒§几乎不〒false〒3〒〒false〒false〒〒false〒〒¤radio§15§组长与员工的关系〒〒〒§0§1〒false§false§false§0§true§§§0§§§很好〒false〒0〒0〒false〒false〒〒false〒〒§一般〒false〒1〒0〒false〒false〒〒false〒〒§不好〒false〒3〒〒false〒false〒〒false〒〒§经常吵〒false〒4〒〒false〒false〒〒false〒〒¤radio§16§请在此输入问题标题〒〒〒§0§1〒false§false§false§§true§§§§§§选项55〒false〒1〒0〒false〒false〒〒false〒〒§选项56〒false〒2〒0〒false〒false〒〒false〒〒
